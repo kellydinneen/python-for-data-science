@@ -13,6 +13,9 @@ areas = [hall, kit, liv, bed, bath]
 # Print areas
 print(areas)
 
+# Create areas_copy
+areas_copy = list(areas)
+
 # -------------------------------------------------
 # SLICING
 
